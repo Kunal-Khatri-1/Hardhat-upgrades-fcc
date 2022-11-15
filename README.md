@@ -6,6 +6,6 @@
 
 ### Options:
 1. Deploy a proxy manually (Sublesson)
-2. hardhat-deploy's built-in proxies <-
+2. hardhat-deploy's built-in proxies
 3. Openzeppelin upgrades plugin
 
